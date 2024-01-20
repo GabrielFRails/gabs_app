@@ -14,3 +14,9 @@ I just have to follow three steps:
 
 Source: https://docs.djangoproject.com/en/5.0/intro/tutorial02/#creating-models
 Note: in my case the command 'python' does not work, so i use python3 instead
+
+## Create admin role
+
+```
+% python3 manage.py createsuperuser
+```
